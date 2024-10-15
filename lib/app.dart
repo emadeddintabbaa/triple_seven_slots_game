@@ -34,7 +34,7 @@ class App extends StatelessWidget {
           const ResponsiveBreakpoint.autoScale(800, name: DESKTOP),
         ]),
         routes: routes,
-        initialRoute: splashScreenRoute,
+        initialRoute: sevenSlotsScreenRoute,
       ),
     );
   }
